@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Resep Gorengan",
+    "slug": "resep-gorengan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.rendiano.resepgorengan"
+    }
+  },
+  "updates": {
+    "fallbackToCacheTimeout": 0
+  },
+  "assetBundlePatterns": [
+    "**/*"
+  ],
+  "ios": {
+    "supportsTablet": true
+  },
+  "android": {
+    "package": "com.rendianoardhiapps.resepgorengan",
+    "versionCode": 1,
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#FFFFFF"
+    }
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  }
+}
